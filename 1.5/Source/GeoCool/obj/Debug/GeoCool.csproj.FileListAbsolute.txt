@@ -1,0 +1,4 @@
+F:\RWModCategories\Neronix17\_SmallMods\Geothermal Coolers\1.5\Assemblies\GeoCool.dll
+F:\RWModCategories\Neronix17\_SmallMods\Geothermal Coolers\1.5\Source\GeoCool\obj\Debug\GeoCool.csproj.AssemblyReference.cache
+F:\RWModCategories\Neronix17\_SmallMods\Geothermal Coolers\1.5\Source\GeoCool\obj\Debug\GeoCool.csproj.CoreCompileInputs.cache
+F:\RWModCategories\Neronix17\_SmallMods\Geothermal Coolers\1.5\Source\GeoCool\obj\Debug\GeoCool.dll
