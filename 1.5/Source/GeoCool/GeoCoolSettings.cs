@@ -24,6 +24,13 @@ namespace GeoCool
         public override void ExposeData()
         {
             base.ExposeData();
+            Scribe_Values.Look(ref cooler_heatPerSecond, "cooler_heatPerSecond", -18f);
+            Scribe_Values.Look(ref cooler_heatPushMinTemp, "cooler_heatPushMinTemp", -5f);
+            Scribe_Values.Look(ref cooler_fuelNeeded, "cooler_fuelNeeded", true);
+            Scribe_Values.Look(ref cooler_fuelConsumptionRate, "cooler_fuelConsumptionRate", 2f);
+
+            Scribe_Values.Look(ref freezer_heatPerSecond, "freezer_heatPerSecond", -75f);
+            Scribe_Values.Look(ref freezer_heatPushMinTemp, "freezer_heatPushMinTemp", -10f);
         }
     }
 }
