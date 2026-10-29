@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Geothermal Coolers\\1.7\\Source\\GeoCool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\RWModCategories\\Neronix17\\_SmallMods\\Geothermal Coolers\\1.7\\Source\\GeoCool\\obj\\Debug\\GeoCool.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\GeoCool.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EF2145-DD6C-385A-11E9-3A19ACB2B229}|GeoCool.csproj|g:\\rwmodcategories\\neronix17\\_smallmods\\geothermal coolers\\1.7\\source\\geocool\\geocoolmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EF2145-DD6C-385A-11E9-3A19ACB2B229}|GeoCool.csproj|solutionrelative:geocoolmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EF2145-DD6C-385A-11E9-3A19ACB2B229}|GeoCool.csproj|g:\\rwmodcategories\\neronix17\\_smallmods\\geothermal coolers\\1.7\\source\\geocool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EF2145-DD6C-385A-11E9-3A19ACB2B229}|GeoCool.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeoCool.AssemblyInfo.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Geothermal Coolers\\1.7\\Source\\GeoCool\\obj\\Debug\\GeoCool.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\GeoCool.AssemblyInfo.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Geothermal Coolers\\1.7\\Source\\GeoCool\\obj\\Debug\\GeoCool.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\GeoCool.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:47:33.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeoCoolMod.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Geothermal Coolers\\1.7\\Source\\GeoCool\\GeoCoolMod.cs",
+              "RelativeDocumentMoniker": "GeoCoolMod.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Geothermal Coolers\\1.7\\Source\\GeoCool\\GeoCoolMod.cs",
+              "RelativeToolTip": "GeoCoolMod.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wCEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:47:09.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Geothermal Coolers\\1.7\\Source\\GeoCool\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "G:\\RWModCategories\\Neronix17\\_SmallMods\\Geothermal Coolers\\1.7\\Source\\GeoCool\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T16:47:02.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
